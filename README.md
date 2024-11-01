@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, tôi là DuyIT</h1>
+<h1 align="center">Xin chào 👋, tôi là Demon coder</h1>
 <h3 align="center">Duy thích lập trình</h3>
 
 <h3 align="left">Kết nối với tôi:</h3>
